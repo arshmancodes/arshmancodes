@@ -16,6 +16,16 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
 </p>
 
+### 🔹FrontEnd Languages:ㅤ
+<p style="padding:10px;">
+    <a href="https://flutter.dev/" target="_blank"> 
+      <img src="https://ih1.redbubble.net/image.1057190231.1918/pp,840x830-pad,1000x1000,f8f8f8.u1.jpg" height=40 width=50 /> 
+    </a>
+    <a href="https://reactjs.org/" target="_blank"> 
+      <img src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/react-js-blog-header.png?itok=VbfDeSgJ" height=40 width=50 /> 
+    </a>
+</p>
+
 ### 🔹Backend framework and libraries:ㅤ
 <p style="padding:10px;">
     <a href="https://expressjs.com/" target="_blank"> 
