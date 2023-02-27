@@ -60,6 +60,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=arshmancodes&show_icons=true&theme=github_dark&hide_border=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshmancodes&theme=github-dark-blue&hide_border=true" />
     <img src="https://activity-graph.herokuapp.com/graph?username=arshmancodes&theme=react-dark" />
+    [![GitHub Streak](https://streak-stats.demolab.com?user=arshmancodes&theme=dark)](https://git.io/streak-stats)
   </a>
 </p>
 
