@@ -8,11 +8,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 <h1 align="center">Hi 👋, I'm Arshman Afzal</h1>
-<h3 align="center">A Passionate Software Engineer with Experience in Flutter/Node.js/MongoDB/Express/React/Laravel/Java</h3>
+<h3 align="center">Mobile Application Developer with Over 5 Years of Experience in Mobile Application Development and Backend Development using Dart/Flutter/NodeJs/ExpressJS as main Stack for the development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshmancodes&label=Profile%20views&color=0e75b6&style=flat" alt="arshmancodes" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Tensor flow**
+- 🌱 I’m currently learning **DevOps and CI/CD Pipelines to ensure smooth Deployment Procedure**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **arshman3@gmail.com**
 
-- ⚡ Fun fact **I can continuosly code for 16 hours a day without taking a break.**
+- ⚡ Fun fact **Properly configured CI/CD Pipelines can reduce the Development time by Half.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
