@@ -8,7 +8,7 @@
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">              -->
 <!-- <br> -->
 <h1 align="center">Hi 👋, I'm Arshman Afzal</h1>
-<h3 align="center">Mobile Application Developer with Over 5 Years of Experience in Mobile Application Development and Backend Development using Dart/Flutter/NodeJs/ExpressJS as main Stack for the development.</h3>
+<h3 align="center">Mobile Application Developer with Over 5 Years of Experience in Mobile Application Development and Backend Development using Dart/Flutter/NodeJs/ExpressJS/Swift/React Native as main Stack for the development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshmancodes&label=Profile%20views&color=0e75b6&style=flat" alt="arshmancodes" /> </p>
 
